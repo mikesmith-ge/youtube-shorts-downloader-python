@@ -156,7 +156,7 @@ Contributions, issues, and feature requests are welcome! Check the [issues page]
 
 - 🐛 **Bug reports:** [Open an issue](../../issues)
 - 💡 **Suggestions:** [Start a discussion](../../discussions)
-- 🚀 **Enterprise needs:** [Visit Instaboost](https://instaboost.ge)
+- 🚀 **Enterprise needs:** [Visit Instaboost](https://instaboost.ge/en)
 
 ---
 
